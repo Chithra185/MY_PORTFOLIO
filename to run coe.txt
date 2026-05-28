@@ -1,0 +1,50 @@
+PS C:\Users\gcchi\Downloads\portfolio-chithrashree\portfolio cdirhra> 
+
+
+    Directory: C:\Users\gcchi\Downloads\portfoli
+    o-chithrashree\portfolio chithra
+
+
+Mode                 LastWriteTime        Length
+----                 -------------        ------
+d-----        28-05-2026  01:09 PM              
+d-----        28-05-2026  01:09 PM              
+d-----        28-05-2026  01:09 PM              
+-a----        28-05-2026  01:09 PM            44
+-a----        28-05-2026  01:09 PM          1137
+-a----        28-05-2026  01:09 PM         93665
+-a----        28-05-2026  01:09 PM           642
+-a----        28-05-2026  01:09 PM            80
+-a----        28-05-2026  01:09 PM          1305
+-a----        28-05-2026  01:09 PM           157
+-a----        28-05-2026  01:09 PM           133
+
+
+PS C:\Users\gcchi\Downloads\portfolio-chithrashree\portfolio chithra>                     npm install
+
+added 144 packages, and audited 145 packages in 8s
+
+25 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+PS C:\Users\gcchi\Downloads\portfolio-chithrashree\portfolio chithra> npm run dev
+
+> chithrashree-portfolio@1.0.0 dev
+> vite
+
+
+  VITE v5.4.21  ready in 322 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+
+
+type package.json
